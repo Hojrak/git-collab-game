@@ -1,5 +1,5 @@
 # Moduł interfejs
 
-Odpowiedzialny: NIEPRZYDZIELONY
-Stan: NIEGOTOWY
-Opis zmiany: BRAK
+Odpowiedzialny: Broromil67
+Stan: GOTOWY
+Opis zmiany: stworzylem brancha Broromil67
